@@ -53,7 +53,7 @@
 #define EEPROMSizeFio         EEPROMSizeATmega328
 #define EEPROMSizeMega        EEPROMSizeATmega1280
 #define EEPROMSizeDiecimila   EEPROMSizeATmega168
-#define EEPROMSizeNano        EEPROMSizeATmega168
+#define EEPROMSizeNano        EEPROMSizeATmega328
 #define EEPROMSizeTeensy2     EEPROMSizeATmega32u4
 #define EEPROMSizeLeonardo    EEPROMSizeATmega32u4
 #define EEPROMSizeMicro       EEPROMSizeATmega32u4
